@@ -1,0 +1,16 @@
+2022-05-15 19:31:55.602  INFO 24244 --- [restartedMain] com.solekia.testproj.DemoApplication     : Starting DemoApplication on S2000301 with PID 24244 (C:\Users\2477\AkasakaWork\30_業務\202204_新人研修\06_Web課題（グループ）\teamX\projectx\bin\main started by 2477 in c:\Users\2477\AkasakaWork\30_業務\202204_新人研修\06_Web課題（グループ）\teamX\projectx)
+2022-05-15 19:31:55.605  INFO 24244 --- [restartedMain] com.solekia.testproj.DemoApplication     : No active profile set, falling back to default profiles: default
+2022-05-15 19:31:55.672  INFO 24244 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-15 19:31:55.672  INFO 24244 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-15 19:31:57.531  INFO 24244 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-05-15 19:31:57.549  INFO 24244 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-15 19:31:57.549  INFO 24244 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2022-05-15 19:31:57.723  INFO 24244 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-15 19:31:57.724  INFO 24244 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2052 ms
+2022-05-15 19:31:57.982  INFO 24244 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-05-15 19:31:58.242  INFO 24244 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-05-15 19:31:58.395  INFO 24244 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-15 19:31:58.413  INFO 24244 --- [restartedMain] com.solekia.testproj.DemoApplication     : Started DemoApplication in 3.364 seconds (JVM running for 4.338)
+2022-05-15 19:32:13.451  INFO 24244 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-15 19:32:13.451  INFO 24244 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-05-15 19:32:13.463  INFO 24244 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
